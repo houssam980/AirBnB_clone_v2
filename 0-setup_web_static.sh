@@ -1,4 +1,4 @@
-#!/usr/bin/env bashh
+#!/usr/bin/env bash
 <<<<<<< HEAD
 # a Bash script that sets up your web servers for the deployment of web_static
 
